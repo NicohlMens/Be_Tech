@@ -1,4 +1,4 @@
-let name = "Nicholas";
+let name = "Nicholas Opoku Mensah";
 let age = "21";
 let fav_program = "Python";
 
